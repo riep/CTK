@@ -1,0 +1,9 @@
+[submodule "certisviewerapp"]
+	path = certisviewerapp
+	url = git@bitbucket.org:certistsolution/certisviewerapp.git
+[submodule "gadgetron"]
+	path = gadgetron
+	url = git@bitbucket.org:certistsolution/gadgetron.git
+[submodule "licensing"]
+	path = licensing
+	url = git@bitbucket.org:certistsolution/licensing.git
