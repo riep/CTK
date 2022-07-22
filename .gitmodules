@@ -7,3 +7,6 @@
 [submodule "licensing"]
 	path = licensing
 	url = git@bitbucket.org:certistsolution/licensing.git
+[submodule "anima"]
+	path = anima
+	url = git@bitbucket.org:certistsolution/anima.git
